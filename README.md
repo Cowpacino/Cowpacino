@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Cowpacino
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning backend programming
