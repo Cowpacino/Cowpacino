@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Cowpacino
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning backend programming
+- 👋 Hi, I’m Ankit
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Django with html and css 
