@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ankit
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django with HTML and CSS
+- 🌱 I’m currently learning Javascript
