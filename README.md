@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Ankit
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+Be kind.
