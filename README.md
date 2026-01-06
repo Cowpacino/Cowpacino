@@ -1,1 +1,1 @@
-PERN | Agentic AI / Agent Engineering | GOLANG
+Hobbyist who works for Thinkact AI as Agentic AI / Agent Engineer
