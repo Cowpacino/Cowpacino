@@ -1,1 +1,1 @@
-PERN | LANGCHAIN | GOLANG
+PERN | Agentic AI / Agent Engineering | GOLANG
